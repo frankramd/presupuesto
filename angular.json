@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "presupuesto-app"
+  "defaultProject": "presupuesto-app",
+  "cli": {
+    "analytics": false
+  }
 }
